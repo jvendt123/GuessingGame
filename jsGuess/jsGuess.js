@@ -26,6 +26,8 @@ function compare(){
   alert("That number is too low, Player 2. Try again!");
   }
   if (numInt2 == numInt1){
-    alert("You guessed it! Great Job! You guessed it in " numTries " tries!)
+    alert("You guessed it! Great Job! You guessed it in " numTries " tries!")
+  }
+}
 
 
